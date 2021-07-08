@@ -1,0 +1,33 @@
+
+body {
+background-color:antiquewhite;
+}
+
+header {
+    color: white;
+    background-image: url("./images/Header-image.jpg");
+    background-size: cover;
+    padding: 20px 10px;
+}
+
+h1 {
+text-align: center;
+}
+
+li {
+    display: block;
+    margin: 5px;
+}
+
+img {
+    max-height: 10em;
+    max-width: 11.25em;
+    border-radius: 5.25em;
+}
+
+.card {
+    margin: 2.25em;
+ }
+  .contact {
+      margin: 50px 0px;
+  }
